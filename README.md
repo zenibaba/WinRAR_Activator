@@ -87,4 +87,5 @@ That's all.
 | downloaddevtools | Keygen for generating WinRAR licenses. |
 | | https://github.com/bitcookies/winrar-keygen |
 | Brynner | For this automatic script activation, and ease of use |
+| NaeemBolchhi | For how to use description |
 | CaptainFahim | Some Editing |
