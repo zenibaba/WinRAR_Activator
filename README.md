@@ -14,7 +14,7 @@ Say goodbye to the annoying "trial period expired" pop-up in WinRAR. This simple
 
 #### **PowerShell (Windows 10/11)**
 
-1.  Open PowerShell or Terminal. You can do this by right-clicking the Start menu.
+1.  Open PowerShell or Terminal with administrative privileges. You can do this by right-clicking the Start menu.
 2.  Copy and paste the command below, then hit Enter:
 
     ```powershell
@@ -55,5 +55,6 @@ This project was made possible by the contributions of:
 | :--- | :--- |
 | downloaddevtools | Providing the WinRAR activation code |
 | Brynner | The elegant and simple script activation method |
-| NaeemBolchhi | The original "How to use" guide |
-| CaptainFahim | Polishing the code and documentation for a better user experience |
+| CaptainFahim (me) | Polishing the code and documentation for a better user experience |
+| | https://bio.link/captainfahim |
+| Gemini | Assisting with the development and refinement of this README and helping with the initial repository setup |
