@@ -24,7 +24,7 @@ Right-click on the windows start menu and select PowerShell or Terminal.
 
 Copy-paste the code below and press enter:
 
-    irm https://github.com/CaptainFahim7/WinRAR_Activator/WRA.ps1 | iex
+    irm https://github.com/CaptainFahim7/WinRAR_Activator/WAS.ps1 | iex
 
 The activation will begin and automatically complete if there are no unforeseen issues.
 
