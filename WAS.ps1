@@ -1,9 +1,9 @@
 # Enable TLSv1.2 for compatibility with older clients
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-$DownloadURL = 'https://raw.githubusercontent.com/CaptainFahim7/WinRAR_Activator/main/WAS.cmd'
+$DownloadURL = 'https://github.com/CaptainFahim7/WinRAR_Activator/blob/main/WAS.cmd'
 
-$FilePath = "$env:TEMP\WRA.cmd"
+$FilePath = "$env:TEMP\WAS.cmd"
 
 try {
     Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
@@ -18,4 +18,5 @@ if (Test-Path $FilePath) {
     $item.Delete()
 
 }
+
 
