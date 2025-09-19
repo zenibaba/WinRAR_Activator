@@ -1,7 +1,7 @@
 # Enable TLSv1.2 for compatibility with older clients
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-$DownloadURL = 'https://github.com/CaptainFahim7/WinRAR_Activator/blob/main/WAS.cmd'
+$DownloadURL = 'https://raw.githubusercontent.com/CaptainFahim7/WinRAR_Activator/main/WAS.cmd'
 
 $FilePath = "$env:TEMP\WRA.cmd"
 
@@ -18,3 +18,4 @@ if (Test-Path $FilePath) {
     $item.Delete()
 
 }
+
