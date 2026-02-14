@@ -123,8 +123,8 @@ exit /b
 echo ^- Registering your copy of WinRAR.
 (
   echo RAR registration data
-  echo Captain Fahim
-  echo bio.link/captainfahim
+  echo Zeni Broh
+  echo t.me/master_zeni
   echo UID=647cabf9a01033d47510
   echo 641221225075101548d3149e83ae06420f113c2e2eeceaec1185bb
   echo 9d85f8bcc6e196c5bb1c607f9b1371a536c3a5dc46479421dbe06a
@@ -140,3 +140,4 @@ exit /b
 :FINISH
 timeout /t 3 /nobreak > nul
 exit
+
